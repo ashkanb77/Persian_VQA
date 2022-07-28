@@ -8,6 +8,7 @@ an implementation of Bottom Up and Top Down Attention for Visual Question Answer
 <code>
   ! bash config_dataset.sh
 </code>
+<br>
 <code>
   ! python train.py
 </code>
